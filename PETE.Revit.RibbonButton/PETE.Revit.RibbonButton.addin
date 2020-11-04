@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application PETE.Revit.RibbonButton</Name>
+    <Assembly>PETE.Revit.RibbonButton.dll</Assembly>
+    <FullClassName>PETE.Revit.RibbonButton.App</FullClassName>
+    <ClientId>b4e8e604-64fe-4fb2-831b-bf57a2de5a0b</ClientId>
+    <VendorId>Peter</VendorId>
+    <VendorDescription>Peter Revit Addin Test</VendorDescription>
+  </AddIn>
+</RevitAddIns>
